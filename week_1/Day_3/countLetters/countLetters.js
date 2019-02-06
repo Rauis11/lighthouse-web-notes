@@ -1,5 +1,5 @@
 function countLetters (str){
-
+//comments
 var obj = {};
 var noSpace = str.split(" ").join('');
 
